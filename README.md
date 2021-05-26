@@ -1,2 +1,3 @@
 # ELE492-Homeworks
-These are the assignments prepared for the Hacettepe University, Department of Electrical and Electronics Engineering, Ele492 course.
+I'm Furkan ÇÖZELİ. I am a student of Hacettepe University, department of electrical and electronics engineering. Here you can find the assignments I prepared for the ELE492 course. Python was used for assignments.
+Good Work
